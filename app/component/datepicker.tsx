@@ -45,7 +45,7 @@ const Datepicker = () => {
  }
 
   return (
-    <div className="flex justify-center items-center flex-col p-4 bg-white shadow-md rounded-lg mx-auto w-1/2 mt-2">
+    <div className="flex justify-center items-center flex-col p-4 bg-white shadow-md rounded-lg mx-auto w-1/2 mt-2 ">
       <ToastContainer
         position="top-center"
         autoClose={2000}
